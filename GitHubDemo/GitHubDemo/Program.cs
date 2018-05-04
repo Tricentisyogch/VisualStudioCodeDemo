@@ -14,6 +14,7 @@ namespace GitHubDemo
             Console.WriteLine("This line is added from VS Code");
             Console.WriteLine("This line is added from Github");
             Console.WriteLine("This new line is added from Github");
+            Console.WriteLine("This new line is added from VS Code");
         }
     }
 }
